@@ -1,0 +1,127 @@
+body {
+    background-color: #fafafa;
+    font-family: Segoe UI;
+}
+
+.container {
+    width: 800px;
+    margin: 0px auto;
+    margin-left: 300px;
+    padding-top: 70px;
+    display: flex;
+}
+
+.gambar {
+    width: 50%;
+}
+
+.img-ig {
+    width: 100%;
+}
+
+.card-wrapp {
+    width: 50%;
+    margin-left: 8px;
+    margin-top: 16px;
+}
+
+.card {
+    border-style: solid;
+    border-color: #f0f0f0;
+    border-width: 3px;
+    text-align: center;
+    background-color: white;
+    margin-top: 8px;
+}
+
+.logo {
+    width: 185px;
+    margin-top: 20px;
+}
+
+.form {
+    margin-top: 30px;
+}
+
+.input {
+    width: 290px;
+    height: 30px;
+    border: 1px solid grey;
+    border-radius: 4px;
+    padding: 4px;
+    margin-top: 10px;
+}
+
+.btn {
+    background-color: #4CB5F9;
+    border: 0px solid transparent;
+    margin-top: 19px;
+    width: 300px;
+    height: 30px;
+    border-radius: 7px;
+    color: white;
+    text-align: center;
+}
+
+.login-fb {
+    color: #385185;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 18px;
+    width: 90px;
+}
+
+.lupa-pw {
+    color: #00376b;
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 16px;
+}
+
+.tidak-punya {
+    font-weight: 400;
+    line-height: 18px;
+    size: 14px;
+}
+
+.buat-akun {
+    text-decoration: none;
+    size: 14px;
+    line-height: 18px;
+    color: #0095f6;
+    font-weight: 600;
+}
+
+p {
+    text-align: center;
+}
+
+.google {
+    width: 130px;
+    margin-left: 89px;
+}
+
+.apps {
+    width: 106px;
+    margin-right: 30px;
+    margin-bottom: 5px;
+}
+
+.capt {
+    padding: 30px;
+    margin-right: 50px;
+    color: grey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.capt a {
+    text-decoration: none;
+    color: gray;
+    font-size: 12px;
+    line-height: 18px;
+    margin: 0 8px 12px 19px;
+}
